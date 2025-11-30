@@ -1,3 +1,4 @@
 node_modules
 .env
 zap-shift-9039f-firebase-adminsdk-fbsvc-bc9a9d4ce1.json
+.vercel
